@@ -1,2 +1,3 @@
-#Descripción del proyecto
-##Especificaciones
+Descripción del proyecto
+
+Especificacioness
