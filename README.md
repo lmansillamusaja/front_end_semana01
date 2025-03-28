@@ -1,3 +1,5 @@
-## Descripción del proyecto
+# Descripción del proyecto
 
-# Especificacioness
+## Especificacioness
+
+1.-Este proyecto esta realizado con HTML ,CSS y JS.
