@@ -1,6 +1,2 @@
 hola luis fernando 
-<<<<<<< HEAD
-eres boni y muere por alexa 
-=======
-eres boni y muere por alexa y luis
->>>>>>> 7e006b1faa7fbf440950581f226bc1743a223260
+
